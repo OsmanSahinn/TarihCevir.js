@@ -13,7 +13,8 @@
  *   algılar ve Türkçe formatta çıktılar verir.
  * - Tarih ifadeleri şu şekilde belirtilmelidir: 
  *   Tarih(GG AA YYYY HG Saat(2024-09-09 08:15:00))
- * 
+ * </body> tagının hemen önüne <script>document.addEventListener('DOMContentLoaded', function() {TarihCevir();});</script> eklenmesi yeterlidir.
+ *
  * Desteklenen Formatlar:
  * - GG-AA-YYYY veya GG.AA.YYYY
  * - YYYY-AA-GG veya YYYY.MM.DD
