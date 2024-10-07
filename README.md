@@ -9,7 +9,7 @@
  Fonksiyon Adı: TarihCevir()
  
  Kullanım:
- - HTML öğelerinde (örneğin <p>, <span>, <div>) tarih biçiminde belirtilen ifadeleri
+ - HTML öğelerinde (örneğin \<p>, \<span>, \<div>) tarih biçiminde belirtilen ifadeleri
    algılar ve Türkçe formatta çıktılar verir.
  - Tarih ifadeleri şu şekilde belirtilmelidir: 
    Tarih(GG AA YYYY HG Saat(2024-09-09 08:15:00))
